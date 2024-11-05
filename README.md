@@ -1,13 +1,13 @@
 <div align="center" style="border:none;">
     <!-- Add two images side by side -->
     <a href="https://mrcodewizard.com" target="_blank"><img alt="Guy working in an amazing place!" src="images/serene4.png" style="border: 2px solid #33FF33" width="48%"></a>
-    <a href="https://mrcodewizard.com" target="_blank"><img alt="Another Guy working in an amazing place!" src="images/serene3.png" style="border: 2px solid #33AFFF" width="48%"></a>
+    <a href="https://michaelroy.dev" target="_blank"><img alt="Another Guy working in an amazing place!" src="images/serene3.png" style="border: 2px solid #33AFFF" width="48%"></a>
     <br>
     <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=its-michaelroy.its-michaelroy" />
 </div>
 
 <!-- Header with lightsaber colors and Jedi-inspired title -->
-<h1 align="center" style="border: none; color: #0B84A5; font-family: 'Orbitron', sans-serif;">⚔️ Code-Wielding Jedi | Master of Stack & Saber | Technical Force Lead ⚔️</h1>
+<h1 align="center" style="border: none; color: #0B84A5; font-family: 'Orbitron', sans-serif;">⚔️ Code-Wielding Jedi | Master of Stack & Saber ⚔️</h1>
 <hr style="border: 1px solid #3399FF; width: 100%;">
 
 <br>
